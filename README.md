@@ -1,2 +1,3 @@
 # House-Prices Advanced Regression Techniques
-Precificação de Casas com Algoritmos - XGBoost/ XGBoostRegressor/ GridSearchCV/ CatBoostRegressor
+
+Predict sales prices and practice feature engineering, RFs, and gradient boosting 
